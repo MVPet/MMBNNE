@@ -4,7 +4,7 @@
 
 <p>This is a prototype fan game. All content used (Music, Graphics, Fonts) is owned by Capcom. MegaMan is owned by Capcom.</p>
 
-<h3><p align="center"> Watch a demo of it here:</p></h3>
+<h3><p align="center">Video:</p></h3>
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6Hncn1U4w" frameborder="0" allowfullscreen></iframe></p>
 
 <br>
