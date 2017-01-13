@@ -6,7 +6,7 @@
 <br>
 The AI and Players actions have been replicated as close to the source as possible. The Player can only move to adjacent squares, whereas the AI will be constantly teleporting between the 9 squares in its field. This is the only "advantage" the AI has over the player; Charge Shots and the 4 abilities function the same way between the Player and the AI.</p>
 
-<p align="center"><i><b>This is a nonprofit fan game demo. All content used (Music, Graphics, Fonts) is owned by Capcom. <br>Please support the official releases.</b></i></p>
+<p align="center"><i><b>This is a nonprofit prototype fan game. All content used (Music, Graphics, Fonts) are owned by Capcom. <br>Please support the official releases.</b></i></p>
 
 <h3><p align="center">Video:</p></h3>
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6Hncn1U4w" frameborder="0" allowfullscreen></iframe></p>
