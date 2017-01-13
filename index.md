@@ -12,5 +12,4 @@ The AI and Players actions have been replicated as close to the source as possib
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6Hncn1U4w" frameborder="0" allowfullscreen></iframe></p>
 
 <br>
-<br>
-<p align="ceter"><a href="http://mvpet.github.io/">Back to Main Page</a></p>
+<p align="center"><a href="http://mvpet.github.io/">Back to Main Page</a></p>
