@@ -1,4 +1,9 @@
-<p>This is the first prototype and game I have made. This was used to learn the general ins and outs of game and gameplay development. I decided on using the gameplay from Capcom's Mega Man Battle Network series due to my enjoyment and knowledge of the gameplay and AI mechanics.</p>
+<h4>
+<b><i>Developed With: C# and Unity</i></b><br>
+<b><i>Development Time: March 2014 to April 2014</i></b><br>
+</h4>
+<br>
+<p>This is the first game I have made. This was used to learn the general ins and outs of game and gameplay development. I decided on using the gameplay from Capcom's Mega Man Battle Network series due to my enjoyment and knowledge of the gameplay and AI mechanics.</p>
 
 <h3><p align="center">The Prototype</p></h3>
 
@@ -6,10 +11,11 @@
 <br>
 The AI and Players actions have been replicated as close to the source as possible. The Player can only move to adjacent squares, whereas the AI will be constantly teleporting between the 9 squares in its field. This is the only "advantage" the AI has over the player; Charge Shots and the 4 abilities function the same way between the Player and the AI.</p>
 
-<p align="center"><i><b>This is a nonprofit prototype fan game. All content used (Music, Graphics, Fonts) are owned by Capcom. <br>Please support the official releases.</b></i></p>
+<p align="center"><i><b>This is a nonprofit prototype fan game.<br>
+All content used (Music, Graphics, Fonts) are owned by Capcom.<br>
+Please support the official releases.</b></i></p>
 
 <h3><p align="center">Video:</p></h3>
 <p align = "center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6Hncn1U4w" frameborder="0" allowfullscreen></iframe></p>
-
 <br>
 <p align="center"><a href="http://mvpet.github.io/">Back to Main Page</a></p>
